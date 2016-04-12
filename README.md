@@ -5,4 +5,5 @@ This is the code for the [full-stack Redux and Immutable-js tutorial here.](http
 This test-first tutorial uses Node+Redux for the backend and React+Redux for the frontend. The code will also involve ES6, Babel, Socket.io, Webpack, and Mocha.
 
 This repo contains the server app.
+The client app [code can be found here](https://github.com/msosland/React-Redux-Voting-App-Client).
 
